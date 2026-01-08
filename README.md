@@ -98,7 +98,7 @@ These models are loaded directly in the web interface for prediction.
 
 1. Clone the repository:
 ```bash
-   git clone <your-repo-link>
+   git clone https://github.com/aayushi0911/AutoJudge
 ```
 Install required libraries:
 ```bash
@@ -108,3 +108,9 @@ Run the web application:
 ```bash
 streamlit run app.py
 ```
+
+---
+Author
+
+Name: Aayushi Bhardwaj
+Enrollment No.: 23112001
